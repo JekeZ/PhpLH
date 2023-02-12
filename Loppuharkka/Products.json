@@ -1,0 +1,101 @@
+[
+  {
+    "kategoria": "hevi",
+    "nimi": "Kurkku",
+    "hintataso": "alhainen",
+    "id": 1,
+    "hinta": 2.99,
+    "paino": "1gr",
+    "kuva": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.biolan.fi%2Fmedia%2Fpuutarhanhoito-kuvat%2Fkurkku.jpg&imgrefurl=https%3A%2F%2Fwww.biolan.fi%2Fartikkelit%2Fkurkku&tbnid=qtejw87jfbq7TM&vet=12ahUKEwjJlebzx-PzAhXPuyoKHTYADjMQMygAegUIARC3AQ..i&docid=lKOhgz1s15fe2M&w=200&h=175&q=kurkku&ved=2ahUKEwjJlebzx-PzAhXPuyoKHTYADjMQMygAegUIARC3AQ"
+  },
+
+  {
+    "kategoria": "liha",
+    "nimi": "Savukinkku",
+    "hintataso": "alhainen",
+    "id": 2,
+    "hinta": 40.9,
+    "paino": "1kg",
+    "kuva": "https://papanpalvi.fi/wp-content/uploads/2020/10/savukinkku-4.jpg"
+  },
+
+  {
+    "kategoria": "hevi",
+    "nimi": "Tomaatti",
+    "hintataso": "alhainen",
+    "id": 3,
+    "hinta": 30,
+    "paino": "1kg",
+    "kuva": "https://www.marli.fi/kuluttajat/tietoahedelmista/_images/img-tomaatti.jpg"
+  },
+
+  {
+    "kategoria": "hevi",
+    "hintataso": "alhainen",
+    "nimi": "Kaali",
+    "id": 4,
+    "hinta": 18.9,
+    "paino": "1,5kg",
+    "kuva": "https://images.contentful.com/kt8yvydomzor/6DVfOeh5wk4eIcMgaQicis/c3fb3dd05974e31cbe2a07da63b01afb/kerakaali_620px"
+  },
+
+  {
+    "kategoria": "liha",
+    "nimi": "Kokolihapihvi",
+    "hintataso": "Korkea",
+    "id": 5,
+    "hinta": 99.9,
+    "paino": "5kg",
+    "kuva": "https://hs.mediadelivery.fi/img/some/default/7fb3da315fa74d4a8f126ac7d57c150a.jpg"
+  },
+
+  {
+    "kategoria": "kana",
+    "nimi": "Broilerpyörykkä",
+    "hintataso": "alhainen",
+    "id": 6,
+    "hinta": 3.99,
+    "paino": "400gr",
+    "kuva": "https://public.keskofiles.com/f/k-ruoka/product/6410402007110"
+  },
+
+  {
+    "kategoria": "kana",
+    "nimi": "Broilerpihvi",
+    "hintataso": "alhainen",
+    "id": 7,
+    "hinta": 4.5,
+    "paino": "500gr",
+    "kuva": "https://www.lagerbladfoods.fi/wp-content/uploads/2017/08/156.jpeg"
+  },
+
+  {
+    "kategoria": "kana",
+    "hintataso": "alhainen",
+    "nimi": "Broilerinakki",
+    "id": 8,
+    "hinta": 2.5,
+    "paino": "300gr",
+    "kuva": "https://cdn.s-cloud.fi/v1/h480w320/product/ean/6409620010705_kuva1.jpg"
+  },
+
+  {
+    "kategoria": "liha",
+    "hintataso": "Korkea",
+    "nimi": "Kassler",
+    "id": 9,
+    "hinta": 55,
+    "paino": "450g",
+    "kuva": "https://hkruokatalo.studio.crasman.fi/pub/Kuvat/Tuotekuvat2/3137.jpg?c=system_1024x"
+  },
+
+  {
+    "kategoria": "hevi",
+    "hintataso": "alhainen",
+    "nimi": "Sipuli",
+    "id": 10,
+    "hinta": 0.99,
+    "paino": "200g",
+    "kuva": "https://kohokohta.com/wp-content/uploads/2019/02/SIPULIT.jpg"
+  }
+]
